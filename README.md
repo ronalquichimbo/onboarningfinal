@@ -1,16 +1,18 @@
 # onboardingfinal
 
-A new Flutter project.
+Codifique un diseño onboarding que encontre en la siguiente pagina:[dribble.com](https://dribbble.com/shots/14650517-Onboarding-screen-designs), 
+Diseñador: Tanvir Alam Hira
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Recursos
+### Widgets 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Page](https://api.flutter.dev/flutter/widgets/PageView-class.html).
+  
+- [Diseño: Container, stack, column, row](https://docs.flutter.dev/).
+  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Siguen en toda las redes sociales @ronalquichimbo
+
+
